@@ -7,7 +7,7 @@ Basic CRUB in ReactJS
     <li>ReactJS</li>
     <li>MySQL</li>
    </ul>
-<h3>what you can do?</h3>
+<h3>what you can do: </h3>
   <ul>
     <li>Delete user</li>
     <li>Update user information</li>
