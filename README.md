@@ -9,10 +9,10 @@ Basic CRUB in ReactJS
    </ul>
 <h3>what you can do: </h3>
   <ul>
-    <li>Delete user</li>
-    <li>Update user information</li>
-    <li>Add user</li>
-    <li>View the user information</li>
+    <li>Delete user's profile</li>
+    <li>Update user's information</li>
+    <li>Add user's profile</li>
+    <li>View the user's information</li>
    </ul>
   <hr/>
 <figure>
