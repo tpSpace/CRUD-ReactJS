@@ -1,4 +1,4 @@
-# CRUB-ReactJS
+# CRUD-ReactJS
 Basic CRUD in ReactJS
 <h3>Tech i used in the project<h3>
   <ul>
